@@ -1,0 +1,7 @@
+{
+  "markets": {
+    "enabled": false,
+    "_addTicker": "usdcop",
+    "_addName": "USD/COP"
+  }
+}
